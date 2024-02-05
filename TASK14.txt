@@ -1,0 +1,24 @@
+TASK 14
+
+1. WHAT IS THE DB OF AUTOMATED AND MANUAL TESTING IN SOFTWARE TESTING?
+    The difference between manual testing and automated testing is that in manual testing, you perform the tests step by step without the help of tools, whereas in automated testing, tests are executed automatically using automation tools & frameworks.
+2. EXPLORE SOME OF THE MOST COMMON AUTOMATION TESTING TOOLS AVAILABLE ON THE MARKET?
+   * selenium
+    *katalon
+    *appium
+    *testcomplete
+    *perfecto
+    *cypress
+    *egg plant
+    *lambdatest
+    *soapui
+    *protractor
+
+3.WHAT IS CROSS BROWSER TESTING?
+    Cross Browser testing is a type of non-functional testing that lets you check whether your website works as intended when accessed through:
+
+Different Browser-OS combinations i.e., on popular browsers like Firefox, Chrome, Edge, Safari—on any of the popular operating systems like Windows, macOS, iOS and Android.
+Different devices i.e., users can view and interact with your website on popular devices—smartphones, tablets, desktops and laptops etc.
+Assistive Tools i.e., the website is compatible with assistive technologies like screen readers for individuals who are differently abled.
+4.WRITE A BLOG ON TDD AND BDD?
+  TDD is a development practice while BDD is a team methodology. In TDD, the developers write the tests while in BDD the automated specifications are created by users or testers (with developers wiring them to the code under test.) For small, co-located, developer-centric teams, TDD and BDD are effectively the same.
